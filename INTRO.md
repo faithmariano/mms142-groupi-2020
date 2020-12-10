@@ -1,14 +1,3 @@
----
-layout: post
-title:  "Artificial Intelligence in the E-Commerce Industry"
-author: Mia Jaro
-categories: [Artificial Intelligence, Online Shopping, E-Commerce]
-image: assets/images/igor-miske-Px3iBXV-4TU-unsplash.jpg
----
-Artificial Intelligence continues to make the E-Commerce Industry disruptive with new technologies like virtual assistants and predictive behavior modelling. 
-
- <br/>
- 
 # What are EVs? Quick breakdown and industry history
 ### What exactly is an EV?
 These vehicles’ defining aspects are is its **electric motors(s)** that utilizes _stored electric energy_ that drives the automobiles. EVs are not only limited to cars but also spreads to **_rail, air, sea, and even space vehicles_** with the spectrum of three different types of EVs: 
