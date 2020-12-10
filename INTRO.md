@@ -20,4 +20,4 @@ in oil and road infrastructure, while limited EV re-charging infrastructure rest
 It has been 3 centuries since the electric vehicle was invented and became possible albeit its crude design and inefficiency, with the fast and improving technology
 appearing, _EVs are now becoming a true technological innovation that the car industry cannot ignore, with the principal catalyst that is **sustainability.**_ 
 Though internal combustion engine (ICE) vehicles are still common around the world, some countries are now looking to EVs as an alternative or better replacement 
-for traditional vehicles to reduce carbon emissions. 
+for traditional vehicles to reduce carbon emissions.
