@@ -1,2 +1,2 @@
-# E-CARS: The Present and The Possible Future
+# E-CARS: The Present and the Possible Future
 Electric vehicles, or also known as EVs, have been making waves in the industry of automobiles  and as well as the industry of petroleum because of its distinct method of operation and features. The world’s societies have now been focusing on creating and sustaining a green footprint for our planet’s better future, and EVs are part of the solution. Despite its groundbreaking current impact, **how far can it go upmarket to completely break the hold of traditional vehicles?**
