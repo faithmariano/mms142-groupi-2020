@@ -10,7 +10,7 @@ filename: index
       focusing on creating and sustaining a green footprint for our planet’s better future, and EVs are part of the solution. 
       Despite its groundbreaking current impact, how far can it go upmarket to completely break the hold of traditional vehicles?</p>
     <figure>
-  <img src="https://knowledge.wharton.upenn.edu/wp-content/uploads/2017/01/Nissan-Leaf.jpeg" alt="EV car" style="width:50%">
+  <img src="https://knowledge.wharton.upenn.edu/wp-content/uploads/2017/01/Nissan-Leaf.jpeg" alt="EV car">
   <figcaption>Nissan Leaf EV</figcaption>
 </figure>
 
