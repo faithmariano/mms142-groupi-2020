@@ -3,9 +3,10 @@
 These vehicles’ defining aspects are is its **electric motors(s)** that utilizes _stored electric energy_ that drives the automobiles. EVs are not only limited to cars but also spreads to **_rail, air, sea, and even space vehicles_** with the spectrum of three different types of EVs: 
 
 **1. hybrid,** _which combines a traditional engine with some form of electric propulsion,_
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fafdc.energy.gov%2Fvehicles%2Fhow-do-hybrid-electric-cars-work&psig=AOvVaw02peOtkn89_Aomhko6F5sr&ust=1607968882503000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOickszJy-0CFQAAAAAdAAAAABAD)
+![alt text](https://afdc.energy.gov/files/vehicles/hybrid-high-res.jpg) 
 
 **2. a plugged-in hybrid,** _which is a hybrid EV with rechargeable batteries, and_
+!
 
 **3. sole rechargeable battery-dependent EVs** _with no internal combustion engine needed._
 
