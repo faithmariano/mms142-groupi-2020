@@ -1,5 +1,5 @@
 # What are EVs? Quick breakdown and industry history
-### What exactly is an EV?
+## What exactly is an EV?
 These vehicles’ defining aspects are is its **electric motors(s)** that utilizes _stored electric energy_ that drives the automobiles. EVs are not only limited to cars but also spreads to **_rail, air, sea, and even space vehicles_** with the spectrum of three different types of EVs: 
 
 **1. hybrid,** _which combines a traditional engine with some form of electric propulsion,_
