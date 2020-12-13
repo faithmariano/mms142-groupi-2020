@@ -6,6 +6,7 @@ These vehicles’ defining aspects are is its **electric motors(s)** that utiliz
 ![alt text](https://afdc.energy.gov/files/vehicles/hybrid-high-res.jpg) 
 
 **2. a plugged-in hybrid,** _which is a hybrid EV with rechargeable batteries, and_
+
 ![alt text](https://www.toyota.com.cn/innovation/environmental_technology/plugin_hybrid/images/plugin_hybrid_img01.jpg)
 
 **3. sole rechargeable battery-dependent EVs** _with no internal combustion engine needed._
