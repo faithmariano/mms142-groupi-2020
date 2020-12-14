@@ -1,9 +1,10 @@
+# The ‘Disruptive’ Rise of EVs 
 
 
 
 
 
-#STATS IN THE PHILIPPINES
+### STATS IN THE PHILIPPINES
 
 In the Philippines, E-tricycles and e-jeepneys dominate the local EV stock by 56% and 38% respectively The Department of Energy(DOE) launched a program called PUV Modernization Programme and with the help of other organizations like ADB, the rise of e-tricycles and e-jeepneys will continue.
 
