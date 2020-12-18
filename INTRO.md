@@ -4,11 +4,15 @@ These vehicles’ defining aspects are is its **electric motors(s)** that utiliz
 
 **1. hybrid,** _which combines a traditional engine with some form of electric propulsion,_
 ![alt text](https://afdc.energy.gov/files/vehicles/hybrid-high-res.jpg) 
+<p align="center"><em>Source: <a href = "https://afdc.energy.gov/sp/assets/car_pages/hybrid-f9d22d6d16eeb332f3b765c7ab431e07803163d716d7cb5f5e786230cd556495.jpg">Google </a></em></p>
+
 
 **2. a plugged-in hybrid,** _which is a hybrid EV with rechargeable batteries, and_
 
 ![alt text](https://www.toyota.com.cn/innovation/environmental_technology/plugin_hybrid/images/plugin_hybrid_img01.jpg)
-
+<p align="center"><em>Source: <a href = "https://www.toyota.com.cn/innovation/environmental_technology/plugin_hybrid/images/plugin_hybrid_img01.jpg">Google </a></em></p>
+  
+  
 **3. sole rechargeable battery-dependent EVs** _with no internal combustion engine needed._
 ![alt text](https://9to5mac.com/wp-content/uploads/sites/6/2017/07/catl-e1488341001584.jpg?quality=82&strip=all)
 
