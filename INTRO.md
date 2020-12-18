@@ -1,9 +1,9 @@
 # What are EVs? Quick breakdown and industry history
 ### What exactly is an EV?
-These vehicles’ defining aspects are is its **electric motors(s)** that utilizes _stored electric energy_ that drives the automobiles. EVs are not only limited to cars but also spreads to **_rail, air, sea, and even space vehicles_** with the spectrum of three different types of EVs: 
+These vehicles’ defining aspects are its **electric motors(s)** that utilizes _stored electric energy_ that drives the automobiles. EVs are not only limited to cars but also spreads to **_rail, air, sea, and even space vehicles_** with the spectrum of three different types of EVs: 
 
 ***
-## **1. hybrid,** _which combines a traditional engine with some form of electric propulsion,_
+## 1. **hybrid,** _which combines a traditional engine with some form of electric propulsion,_
 ![alt text](https://afdc.energy.gov/files/vehicles/hybrid-high-res.jpg) 
 <p align="center"><em>Source: <a href = "https://afdc.energy.gov/sp/assets/car_pages/hybrid-f9d22d6d16eeb332f3b765c7ab431e07803163d716d7cb5f5e786230cd556495.jpg">Google </a></em></p>
 
@@ -38,7 +38,7 @@ appearing, _EVs are now becoming a true technological innovation that the car in
 Though internal combustion engine (ICE) vehicles are still common around the world, some countries are now looking to EVs as an alternative or better replacement 
 for traditional vehicles to reduce carbon emissions.
 ![alt text](https://youmatter.world/app/uploads/sites/2/2018/09/electric-car-eco-friendly-sustainable.jpg)
-
+<br>
 
 ***
 ### Sources:
