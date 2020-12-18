@@ -5,4 +5,44 @@
 All in all, the future looks bright for electronic vehicles especially thanks to the 21st century trend of the electrification of transport. The driving force of electronic vehicle adoption is the global climate crisis. Pressure from world governments and various organizations are calling upon the mass adoption of EVs. 
 
 ## The electric car industry 
-Bloomerg New Energy Finance (BNEF) predicts EVs to comprise 58% of global car sales in 2040. The BNEF also predicts that there will be 500 million electric vehicles on the road by 2040. Various manufacturers have pledged to 
+Bloomerg New Energy Finance (BNEF) predicts EVs to comprise 58% of global car sales in 2040. The BNEF also predicts that there will be 500 million electric vehicles on the road by 2040. Various car manufacturers like Toyota have pledged to electrify more of their models citing a prediction on increasing oil prices to be a primary reason for the move. 
+
+The declining costs of battery is expected to boost the adoption of electric vehicles in four years by about three times its current figure today. Today, batteries costs around $120/kWh and $200/kWh at the battery pack level according to the Electric Power Research Institute (EPRI). The US Department of Energy insists that its goal of reaching a price of $80/kWh by 2030 for a vehicle battery pack is reasonable with experts suggesting that further developments on battery technology can push the price to be even lower. It is expected that by 2026, it will be cheaper to build an electric vehicle compared to its gas counterparts. 
+
+![Self-driving future](https://static.dezeen.com/uploads/2016/02/google-artificial-intelligence-first-non-human-driver_dezeen_1568_1.jpg)
+<p align="center">Google's self-driving car. <em>Source: <a href = "https://www.dezeen.com/2016/02/12/google-self-driving-car-artficial-intelligence-system-recognised-as-driver-usa/">Dezeen </a></em></p>
+
+## The self-driven future
+Automated driving systems (ADS) for cars are classified into different levels
+| Level                             | Defining characteristics                                                                                                                                                                                                                                                                                                                             |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Level 0 - No automation           | The driver is responsible for all core driving tasks. However, Level 0 vehicles may still include features like automatic emergency breaking, blind-spot warnings, and lane-departure warnings.                                                                                                                                                      |
+| Level 1 - Driver assistance      | Vehicle navigation is controlled by the driver, but driving-assist features like lane centering or adaptive cruise control are included.                                                                                                                                                                                                             |
+| Level 2 - Partial automation     | Core vehicle is still controlled by the driver, but the vehicle is capable of using assisted-driving features like lane centering and adaptive cruise control simultaneously.                                                                                                                                                                        |
+| Level 3 - Conditional automation | Driver is still required but is not needed to navigate or monitor the environment if certain criteria are met. However, the driver must remain ready to resume control of the vehicle once the conditions permitting ADS are no longer met.                                                                                                          |
+| Level 4 - High automation        | The vehicle can carry out all driving functions and does not require that the driver remain ready to take control of navigation. However, the quality of the ADS navigation may decline under certain conditions such as off-road driving or other types of abnormal or hazardous situations. The driver may have the option to control the vehicle. |
+| Level 5 - Full Automation        | The ADS system is advanced enough that the vehicle can carry out all driving functions no matter the conditions. The driver may have the option to control the vehicle.      
+
+<p align="center">Information from the Society of Automotive Engineers (SAE). <em>Table Source: <a href = "https://www.fool.com/investing/what-does-the-future-hold-for-self-driving-cars.aspx">The Motley Fool </a></em></p>
+
+Most of the self-driving cars available today fall into levels 2-3 of this chart. Manufacturers such as Ford, Baidu and Volvo are expected to launch level 4 type vehicles in 2021. The rise of self-driving cars is expected to reduce automotive accidents as the National Highway Traffic Safety Administration (NHTSA) estimates that 94% of auto accidents are caused by human error. Experts even suggest that human drivers might be completely phased out if self-driving cars prove to be significantly safer.
+
+The emergence of self-driving technology will disrupt the tranportation industry. As technology moves closer to make human drivers optional, the effects are still rather unclear. Some experts predict that ride-sharing services like Uber and Lyft will take a blow on their profits once the technology becomes more widely available. Evidently, it is still too early to predict the possible effect of self-driving technology on various aspects of the transportation industry but it is expected to change transportation as a whole.
+
+![The internet of cars](https://i.pcmag.com/imagery/articles/05RXd5ftcsZ8cdYd6N3Rvfl-2.1569487120.fit_lim.fit_lim.size_1696x.jpg)
+<p align="center">Vehicle to vehicle communication. <em>Source: <a href = "https://www.zdnet.com/pictures/the-internet-of-things-cool-connected-cars/">Zdnet </a></em></p>
+
+## An internet of cars
+To fully realize the dream of a fully self-driven future, all the cars in the road must be connected to each other. This allows them to communicate with each other, sharing crucial information to ensure a safer driving experience for all vehicles on the road. This type of communication can extend to infrastructure on the road as well. Internetservices such as a Wi-Fi connection can be the next step as well. This type of technology can potential make car rides a more productive or leisurely activity for most. 
+
+***
+### Sources
+Altran. (2020). <em><a href = "https://ignition.altran.com/en/article/what-will-the-car-of-the-future-look-like/">What will the car of the future look like?</em></a>
+
+Noonan, K. (2019). <em><a href = "https://www.fool.com/investing/what-does-the-future-hold-for-self-driving-cars.aspx">What Does the Future Hold for Self-Driving Cars?</em></a>
+
+Slowinski, C. (2018). <em><a href = "https://www.victrex.com/en/blog/2018/electric-vehicles-a-disruptive-technology-is-becoming--increasingly-established">Electric Vehicles – a disruptive technology is becoming increasingly established</a></em>
+
+Sylvia, T. (2020). <em><a href = "https://pv-magazine-usa.com/2020/05/19/the-future-of-cars-is-electric-but-how-soon-is-this-future/">The future of cars is electric – but how soon is this future?</em></a>
+
+Walton, R. (2020). <em><a href = "https://www.utilitydive.com/news/electric-vehicle-models-expected-to-triple-in-4-years-as-declining-battery/592061/">Electric vehicle models expected to triple in 4 years as declining battery costs boost adoption</a></em>
