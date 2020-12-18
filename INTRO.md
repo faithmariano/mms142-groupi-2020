@@ -2,7 +2,7 @@
 ### What exactly is an EV?
 These vehicles’ defining aspects are is its **electric motors(s)** that utilizes _stored electric energy_ that drives the automobiles. EVs are not only limited to cars but also spreads to **_rail, air, sea, and even space vehicles_** with the spectrum of three different types of EVs: 
 
-**1. hybrid,** _which combines a traditional engine with some form of electric propulsion,_
+# **1. hybrid,** _which combines a traditional engine with some form of electric propulsion,_
 ![alt text](https://afdc.energy.gov/files/vehicles/hybrid-high-res.jpg) 
 <p align="center"><em>Source: <a href = "https://afdc.energy.gov/sp/assets/car_pages/hybrid-f9d22d6d16eeb332f3b765c7ab431e07803163d716d7cb5f5e786230cd556495.jpg">Google </a></em></p>
 
