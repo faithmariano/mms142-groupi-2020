@@ -30,3 +30,9 @@ appearing, _EVs are now becoming a true technological innovation that the car in
 Though internal combustion engine (ICE) vehicles are still common around the world, some countries are now looking to EVs as an alternative or better replacement 
 for traditional vehicles to reduce carbon emissions.
 ![alt text](https://youmatter.world/app/uploads/sites/2/2018/09/electric-car-eco-friendly-sustainable.jpg)
+
+
+***
+### Sources:
+[Sanketh, A. (2016, September 18). Electric Vehicles: Are they disruptive? Nikko AM Global Site.](https://en.nikkoam.com/articles/2016/09/electric-vehicles-are-they-disruptive)
+
