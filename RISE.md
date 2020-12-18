@@ -1,9 +1,6 @@
 # The ‘Disruptive’ Rise of EVs 
 
 
-
-
-
 ### STATISTICS IN THE PHILIPPINES
 
 In the Philippines, e-tricycles and e-jeepneys dominate the local EV stock by 56% and 38% respectively. The Department of Energy(DOE) launched a program called PUV Modernization Programme and with the help of other organizations like ADB, the rise of e-tricycles and e-jeepneys will continue. 17 e-jeepney models and 21 e-tricycle models are in the market.
@@ -38,3 +35,13 @@ Nations around the world are now looking for a way to reduce air pollution and c
 [Villadolid, R. (2018). Philippine Electric Vehicle Industry Growth Agenda [PowerPoint slides].](https://boi.gov.ph/wp-content/uploads/2018/03/Electric-Vehicle-Industry-Roadmap.pdf)
 
 [Kampman, B. Braat, W. Essen, H. Gopalakrishnan, D. (2011 April). Impacts of Electric Vehicles - Deliverable 4: Economic analysis and business models.](https://ec.europa.eu/clima/sites/clima/files/transport/vehicles/docs/d4_en.pdf)
+
+[Sanketh, A. (2016, September 18). Electric Vehicles: Are they disruptive? Nikko AM Global Site.] 
+(https://en.nikkoam.com/articles/2016/09/electric-vehicles-are-they-disruptive)
+
+[Electric Vehicle Benefits. (n.d.). Department of Energy.]
+(https://www.energy.gov/eere/electricvehicles/electric-vehicle-benefits)
+
+[Klemens, K. (2019, July 11). EV Disruption Goes Beyond Mere Numbers. Design News.] 
+(https://www.designnews.com/ev-disruption-goes-beyond-mere-numbers)
+
