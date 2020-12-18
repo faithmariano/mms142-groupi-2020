@@ -11,7 +11,7 @@ filename: index
       Despite its groundbreaking current impact, how far can it go upmarket to completely break the hold of traditional vehicles?</p>
     <figure>
   <img src="https://knowledge.wharton.upenn.edu/wp-content/uploads/2017/01/Nissan-Leaf.jpeg" alt="EV car">
-  <figcaption>Nissan Leaf EV</figcaption>
+      <figcaption><p align ="center">Race to replace cobalt: one of the world's best-selling EVs, the Nissan Leaf EV</figcaption></p>
 </figure>
 
   </body>
