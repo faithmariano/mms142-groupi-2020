@@ -4,7 +4,7 @@ layout: default
 filename: index
 --- 
   <body>
-    <h1>E-CARS: The Present and The Possible Future</h1>
+    <h1>E-VEHICLES: The Present and The Possible Future</h1>
     <p>Electric vehicles, or also known as EVs, have been making waves in the industry of automobiles and as well as the 
       industry of petroleum because of its distinct method of operation and features. The world’s societies have now been 
       focusing on creating and sustaining a green footprint for our planet’s better future, and EVs are part of the solution. 
