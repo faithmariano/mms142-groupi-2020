@@ -30,15 +30,15 @@ Nations around the world are now looking for a way to reduce air pollution and c
 
 ***
 ### Sources:
-[Biona, J.B. Manuel. (2019 July). Philippine Electric Vehicle Policy Analysis Report - Draft.](https://www.researchgate.net/publication/335464260_Philippine_Electric_Vehicle_Policy_Analysis_Report_-_Draft_Report) 
+- [Biona, J.B. Manuel. (2019 July). Philippine Electric Vehicle Policy Analysis Report - Draft.](https://www.researchgate.net/publication/335464260_Philippine_Electric_Vehicle_Policy_Analysis_Report_-_Draft_Report) 
 
-[Villadolid, R. (2018). Philippine Electric Vehicle Industry Growth Agenda [PowerPoint slides].](https://boi.gov.ph/wp-content/uploads/2018/03/Electric-Vehicle-Industry-Roadmap.pdf)
+- [Villadolid, R. (2018). Philippine Electric Vehicle Industry Growth Agenda [PowerPoint slides].](https://boi.gov.ph/wp-content/uploads/2018/03/Electric-Vehicle-Industry-Roadmap.pdf)
 
-[Kampman, B. Braat, W. Essen, H. Gopalakrishnan, D. (2011 April). Impacts of Electric Vehicles - Deliverable 4: Economic analysis and business models.](https://ec.europa.eu/clima/sites/clima/files/transport/vehicles/docs/d4_en.pdf)
+- [Kampman, B. Braat, W. Essen, H. Gopalakrishnan, D. (2011 April). Impacts of Electric Vehicles - Deliverable 4: Economic analysis and business models.](https://ec.europa.eu/clima/sites/clima/files/transport/vehicles/docs/d4_en.pdf)
 
-[Sanketh, A. (2016, September 18). Electric Vehicles: Are they disruptive? Nikko AM Global Site.](https://en.nikkoam.com/articles/2016/09/electric-vehicles-are-they-disruptive)
+- [Sanketh, A. (2016, September 18). Electric Vehicles: Are they disruptive? Nikko AM Global Site.](https://en.nikkoam.com/articles/2016/09/electric-vehicles-are-they-disruptive)
 
-[Electric Vehicle Benefits. (n.d.). Department of Energy.](https://www.energy.gov/eere/electricvehicles/electric-vehicle-benefits)
+- [Electric Vehicle Benefits. (n.d.). Department of Energy.](https://www.energy.gov/eere/electricvehicles/electric-vehicle-benefits)
 
-[Klemens, K. (2019, July 11). EV Disruption Goes Beyond Mere Numbers. Design News.](https://www.designnews.com/ev-disruption-goes-beyond-mere-numbers)
+- [Klemens, K. (2019, July 11). EV Disruption Goes Beyond Mere Numbers. Design News.](https://www.designnews.com/ev-disruption-goes-beyond-mere-numbers)
 
