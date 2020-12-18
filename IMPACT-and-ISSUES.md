@@ -16,14 +16,15 @@ E-vehicles take pride in the positive environmental impact it has been making an
 Hopefully as this new decade unfolds, greener transport and automotive strategies will be felt from our government more than the private sector in terms of investments, more e-vehicles will be seen on our streets transporting both goods and people, and more charging stations will be built to accommodate the increase in e-vehicles -- for better climate conditions and air quality not only for our generation, but also for the future’s.
 
 
-##References:
+##References
 
-..*CNN Phililippines. (2018, December 7). [Photograph]. CNN Philippines. https://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2018/12/6/Ateneo-de-Manila-e-jeeps.png/jcr:content/Ateneo%20de%20Manila%20e-jeeps.png
-..*CNN Philippines. (2018, December 7). How Ateneo de Manila operates E-jEEps for students, personnel. CNN. https://cnnphilippines.com/lifestyle/2018/12/6/ateneo-manila-operates-ejeeps.html
-..*Department of Trade and Industry. (n.d.). E-vehicles. Securing The Future of Philippine Industries. https://industry.gov.ph/industry/e-vehicles/
-..*Ellsmoor, J. (2019, May 20). Are electric vehicles really better for the environment? Forbes. https://www.forbes.com/sites/jamesellsmoor/2019/05/20/are-electric-vehicles-really-better-for-the-environment/?sh=479489bf76d2
-..*Hausfather, Z. (2020, February 11). FactCheck: How electric vehicles help to tackle climate change. Carbon Brief. https://www.carbonbrief.org/factcheck-how-electric-vehicles-help-to-tackle-climate-change
-..*International Council on Clean Transport. (2018). Effects of battery manufacturing on electric vehicle life-cycle greenhouse gas emissions. https://theicct.org/sites/default/files/publications/EV-life-cycle-GHG_ICCT-Briefing_09022018_vF.pdf
-..*Matousek, M. (2018, October 25). Tesla's factory in Fremont, California [Photograph]. https://www.businessinsider.com/tesla-start-making-cars-china-factory-2019-2018-10. https://i.insider.com/5ad4e8c0146e7127008b4ad1?width=1000&format=jpeg&auto=webp
-..*Riley, C. (n.d.). The race to the electric car is just getting started. CNN Business. https://edition.cnn.com/interactive/2019/08/business/electric-cars-audi-volkswagen-tesla/
-..*U.S. Department of Energy Office of Energy Efficiency and Renewable Energy. (n.d.). Reducing pollution with electric vehicles. Energy.gov. https://www.energy.gov/eere/electricvehicles/reducing-pollution-electric-vehicles
+..* CNN Phililippines. (2018, December 7). [Photograph]. CNN Philippines. https://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2018/12/6/Ateneo-de-Manila-e-jeeps.png/jcr:content/Ateneo%20de%20Manila%20e-jeeps.png
+..* CNN Philippines. (2018, December 7). <i>How Ateneo de Manila operates E-jEEps for students, personnel.</i> CNN. https://cnnphilippines.com/lifestyle/2018/12/6/ateneo-manila-operates-ejeeps.html
+..* Department of Trade and Industry. (n.d.). <i>E-vehicles. Securing The Future of Philippine Industries.</i> https://industry.gov.ph/industry/e-vehicles/
+..* Ellsmoor, J. (2019, May 20). <i>Are electric vehicles really better for the environment?</i> Forbes. https://www.forbes.com/sites/jamesellsmoor/2019/05/20/are-electric-vehicles-really-better-for-the-environment/?sh=479489bf76d2
+..* Hausfather, Z. (2020, February 11). <i>FactCheck: How electric vehicles help to tackle climate change.</i> Carbon Brief. https://www.carbonbrief.org/factcheck-how-electric-vehicles-help-to-tackle-climate-change
+..* International Council on Clean Transport. (2018). <i>Effects of battery manufacturing on electric vehicle life-cycle greenhouse gas emissions.</i> https://theicct.org/sites/default/files/publications/EV-life-cycle-GHG_ICCT-Briefing_09022018_vF.pdf
+..* Matousek, M. (2018, October 25). <i>Tesla's factory in Fremont, California</i> [Photograph]. https://www.businessinsider.com/tesla-start-making-cars-china-factory-2019-2018-10. https://i.insider.com/5ad4e8c0146e7127008b4ad1?width=1000&format=jpeg&auto=webp
+..* Riley, C. (n.d.). <i>The race to the electric car is just getting started.</i> CNN Business. https://edition.cnn.com/interactive/2019/08/business/electric-cars-audi-volkswagen-tesla/
+..* U.S. Department of Energy Office of Energy Efficiency and Renewable Energy. (n.d.). <i>Reducing pollution with electric vehicles.</i> Energy.gov. https://www.energy.gov/eere/electricvehicles/reducing-pollution-electric-vehicles
+..* United Nations. (2020, June 5). Climate change. https://www.un.org/en/sections/issues-depth/climate-change/
