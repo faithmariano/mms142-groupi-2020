@@ -35,4 +35,4 @@ To fully realize the dream of a fully self-driven future, all the cars in the ro
 - [Noonan, K. (2019). What Does the Future Hold for Self-Driving Cars?](https://www.fool.com/investing/what-does-the-future-hold-for-self-driving-cars.aspx)
 - [Slowinski, C. (2018). Electric Vehicles – a disruptive technology is becoming increasingly established.](https://www.victrex.com/en/blog/2018/electric-vehicles-a-disruptive-technology-is-becoming--increasingly-established)
 - [Sylvia, T. (2020). The future of cars is electric – but how soon is this future?](https://pv-magazine-usa.com/2020/05/19/the-future-of-cars-is-electric-but-how-soon-is-this-future/)
-- [Walton, R. (2020). Electric vehicle models expected to triple in 4 years as declining battery costs boost adoption](https://www.utilitydive.com/news/electric-vehicle-models-expected-to-triple-in-4-years-as-declining-battery/592061/)
+- [Walton, R. (2020). Electric vehicle models expected to triple in 4 years as declining battery costs boost adoption.](https://www.utilitydive.com/news/electric-vehicle-models-expected-to-triple-in-4-years-as-declining-battery/592061/)
