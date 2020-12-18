@@ -12,7 +12,6 @@ filename: index
     <figure>
       <img src="https://knowledge.wharton.upenn.edu/wp-content/uploads/2017/01/Nissan-Leaf.jpeg" alt="EV car">
       <figcaption><p align ="center"><i>Race to replace cobalt: one of the world's best-selling EVs, the Nissan Leaf EV</i></p></figcaption>
-  
     </figure>
 
   </body>
