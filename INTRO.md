@@ -42,5 +42,5 @@ for traditional vehicles to reduce carbon emissions.
 
 ***
 ### Sources:
-[Sanketh, A. (2016, September 18). Electric Vehicles: Are they disruptive? Nikko AM Global Site.](https://en.nikkoam.com/articles/2016/09/electric-vehicles-are-they-disruptive)
+- [Sanketh, A. (2016, September 18). Electric Vehicles: Are they disruptive? Nikko AM Global Site.](https://en.nikkoam.com/articles/2016/09/electric-vehicles-are-they-disruptive)
 
