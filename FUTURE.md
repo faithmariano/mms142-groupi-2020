@@ -27,14 +27,12 @@ The emergence of self-driving technology will have a huge negative impact to the
 ## An internet of cars
 To fully realize the dream of a fully self-driven future, all the cars in the road must be connected to each other. This allows them to communicate with each other, sharing crucial information to ensure a safer driving experience for all vehicles on the road. This type of communication can extend to infrastructure on the road as well. Internetservices such as a Wi-Fi connection can be the next step as well. This type of technology can potential make car rides a more productive or leisurely activity for most. 
 
+
 ***
 ### Sources
-Altran. (2020). <em><a href = "https://ignition.altran.com/en/article/what-will-the-car-of-the-future-look-like/">What will the car of the future look like?</em></a>
 
-Noonan, K. (2019). <em><a href = "https://www.fool.com/investing/what-does-the-future-hold-for-self-driving-cars.aspx">What Does the Future Hold for Self-Driving Cars?</em></a>
-
-Slowinski, C. (2018). <em><a href = "https://www.victrex.com/en/blog/2018/electric-vehicles-a-disruptive-technology-is-becoming--increasingly-established">Electric Vehicles – a disruptive technology is becoming increasingly established</a></em>
-
-Sylvia, T. (2020). <em><a href = "https://pv-magazine-usa.com/2020/05/19/the-future-of-cars-is-electric-but-how-soon-is-this-future/">The future of cars is electric – but how soon is this future?</em></a>
-
-Walton, R. (2020). <em><a href = "https://www.utilitydive.com/news/electric-vehicle-models-expected-to-triple-in-4-years-as-declining-battery/592061/">Electric vehicle models expected to triple in 4 years as declining battery costs boost adoption</a></em>
+- [Altran. (2020). What will the car of the future look like?](https://ignition.altran.com/en/article/what-will-the-car-of-the-future-look-like/)
+- [Noonan, K. (2019). What Does the Future Hold for Self-Driving Cars?](https://www.fool.com/investing/what-does-the-future-hold-for-self-driving-cars.aspx)
+- [Slowinski, C. (2018). Electric Vehicles – a disruptive technology is becoming increasingly established.](https://www.victrex.com/en/blog/2018/electric-vehicles-a-disruptive-technology-is-becoming--increasingly-established)
+- [Sylvia, T. (2020). The future of cars is electric – but how soon is this future?](https://pv-magazine-usa.com/2020/05/19/the-future-of-cars-is-electric-but-how-soon-is-this-future/)
+- [Walton, R. (2020). Electric vehicle models expected to triple in 4 years as declining battery costs boost adoption](https://www.utilitydive.com/news/electric-vehicle-models-expected-to-triple-in-4-years-as-declining-battery/592061/)
