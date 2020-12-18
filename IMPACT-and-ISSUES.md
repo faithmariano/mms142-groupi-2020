@@ -25,7 +25,7 @@ Hopefully as this new decade unfolds, greener transport and automotive strategie
 - [Ellsmoor, J. (2019, May 20). <i>Are electric vehicles really better for the environment?</i> Forbes.](https://www.forbes.com/sites/jamesellsmoor/2019/05/20/are-electric-vehicles-really-better-for-the-environment/?sh=479489bf76d2)
 - [Hausfather, Z. (2020, February 11). <i>FactCheck: How electric vehicles help to tackle climate change.</i> Carbon Brief.](https://www.carbonbrief.org/factcheck-how-electric-vehicles-help-to-tackle-climate-change)
 - [International Council on Clean Transport. (2018). <i>Effects of battery manufacturing on electric vehicle life-cycle greenhouse gas emissions.</i>](https://theicct.org/sites/default/files/publications/EV-life-cycle-GHG_ICCT-Briefing_09022018_vF.pdf)
-- [Matousek, M. (2018, October 25).<i>Tesla's factory in Fremont, California</i>](https://i.insider.com/5ad4e8c0146e7127008b4ad1?width=1000&format=jpeg&auto=webp)
+- [Matousek, M. (2018, October 25).<i>Tesla's factory in Fremont, California</i>[Photograph](https://i.insider.com/5ad4e8c0146e7127008b4ad1?width=1000&format=jpeg&auto=webp)
 - [Riley, C. (n.d.). <i>The race to the electric car is just getting started.</i> CNN Business.](https://edition.cnn.com/interactive/2019/08/business/electric-cars-audi-volkswagen-tesla/)
 - [U.S. Department of Energy Office of Energy Efficiency and Renewable Energy. (n.d.). <i>Reducing pollution with electric vehicles.</i> Energy.gov.](https://www.energy.gov/eere/electricvehicles/reducing-pollution-electric-vehicles)
 - [United Nations. (2020, June 5). Climate change.](https://www.un.org/en/sections/issues-depth/climate-change/)
