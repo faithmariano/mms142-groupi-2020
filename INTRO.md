@@ -19,7 +19,7 @@ These vehicles’ defining aspects are its **electric motors(s)** that utilizes 
 
 
 ***
-Though it may sound futuristic, the first ever battery-powered electric vehicle was launched in **1837.** According to _Sanketh (2016),_ **_“By the 1890s, there were actually 10 times as many electric cars sold as gasoline cars. Around 40% of all cars in the US were electric in the first decade of the 20th century.”_**
+Though it may sound futuristic, the first ever battery-powered electric vehicle was launched in **1837.** According to _Sanketh (2016),_ **_“By the 1890s, there were actually 10 times as many electric cars sold as gasoline cars. Around 40% of all cars in the US were electric in the first decade of the 20th century.”_** <b>
 ![alt text](https://cdn.hswstatic.com/gif/electric-car-age-1200x800.jpg)
 
 ***
