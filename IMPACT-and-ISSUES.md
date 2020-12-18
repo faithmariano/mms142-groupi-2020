@@ -14,8 +14,10 @@ E-vehicles take pride in the positive environmental impact it has been making an
 <p align="center">Tesla's factory in Fremont, California. <em>Source: <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.businessinsider.com%2Ftesla-start-making-cars-china-factory-2019-2018-10&psig=AOvVaw20mnFR-XZy9rk8UDeJ3Sew&ust=1608405730827000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCIDgveKh2O0CFQAAAAAdAAAAABAI">Business Insider</a></em></p>
 
 Hopefully as this new decade unfolds, greener transport and automotive strategies will be felt from our government more than the private sector in terms of investments, more e-vehicles will be seen on our streets transporting both goods and people, and more charging stations will be built to accommodate the increase in e-vehicles -- for better climate conditions and air quality not only for our generation, but also for the future’s.
-===
+
+
 ##References:
+
 ..*CNN Phililippines. (2018, December 7). [Photograph]. CNN Philippines. https://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2018/12/6/Ateneo-de-Manila-e-jeeps.png/jcr:content/Ateneo%20de%20Manila%20e-jeeps.png
 ..*CNN Philippines. (2018, December 7). How Ateneo de Manila operates E-jEEps for students, personnel. CNN. https://cnnphilippines.com/lifestyle/2018/12/6/ateneo-manila-operates-ejeeps.html
 ..*Department of Trade and Industry. (n.d.). E-vehicles. Securing The Future of Philippine Industries. https://industry.gov.ph/industry/e-vehicles/
