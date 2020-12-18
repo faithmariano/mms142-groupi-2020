@@ -19,7 +19,7 @@ These vehicles’ defining aspects are its **electric motors(s)** that utilizes 
 
 
 ***
-Though it may sound futuristic, the first ever battery-powered electric vehicle was launched in **1837.** According to _Sanketh (2016),_ **_“By the 1890s, there were actually 10 times as many electric cars sold as gasoline cars. Around 40% of all cars in the US were electric in the first decade of the 20th century.”_** <b>
+Though it may sound futuristic, the first ever battery-powered electric vehicle was launched in **1837.** According to _Sanketh (2016),_ **_“By the 1890s, there were actually 10 times as many electric cars sold as gasoline cars. Around 40% of all cars in the US were electric in the first decade of the 20th century.”_**
 ![alt text](https://cdn.hswstatic.com/gif/electric-car-age-1200x800.jpg)
 
 ***
@@ -38,7 +38,7 @@ appearing, _EVs are now becoming a true technological innovation that the car in
 Though ICE (internal combustion engine) vehicles are still common around the world, some countries are now looking to EVs as an alternative or better replacement 
 for traditional vehicles to reduce carbon emissions.
 ![alt text](https://youmatter.world/app/uploads/sites/2/2018/09/electric-car-eco-friendly-sustainable.jpg)
-<br>
+
 
 ***
 ### Sources:
