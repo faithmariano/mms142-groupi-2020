@@ -3,6 +3,8 @@
 
 In an article entitled, Electric Vehicles: Are they disruptive?, Ashwin Sanketh, a Portfolio Manager at Nikko Asset Management, briefly discussed how EVs can be considered as a disruptive technology, especially for the next coming years. But what does he mean by disruptive technology? According to the online Cambridge dictionary, disruptive usually refers to or is associated with something negative – causing trouble and therefore stopping something from continuing as usual. However, in business, the outlook on this word is more positive – changing the traditional way that an industry operates, especially in a new and effective way. As Professor Clayton M. Christensen coined the term, he describes disruptive technology as typically simpler, cheaper, more reliable, and more convenient than established technologies. 
 
+![alt text](/clayton christensen.jpg)
+
 Based on the definition given by Prof. Christensen, Sanketh explained that as compared to ICE-powered vehicles, EVs are certainly: 
 
 * simpler as it only has one moving part of the motor
