@@ -2,12 +2,12 @@
 <p align="center">A Tesla Cybertruck after the unveiling event. <em>Source: <a href = "https://upload.wikimedia.org/wikipedia/commons/0/0c/Tesla_Cybertruck_outside_unveil_modified_by_Smnt.jpg">Wikipedia </a></em></p>
 
 # What’s next for EVs?
-All in all, the future looks bright for electronic vehicles especially thanks to the 21st century trend of the electrification of transport. The driving force of electronic vehicle adoption is the global climate crisis. The pressure from world governments and various organizations are calling upon the mass adoption of EVs. 
+All in all, the future looks bright especially for electronic vehicles, thanks to the 21st century trend of the electrification of transport. The driving force of electronic vehicle adoption is the global climate crisis. The pressure from world governments and various organizations are calling upon the mass adoption of EVs. 
 
 ## The electric car industry 
 Bloomerg New Energy Finance (BNEF) predicts EVs to comprise 58% of global car sales in 2040. The BNEF also predicts that there will be 500 million electric vehicles on the road by 2040. Various car manufacturers like Toyota have pledged to electrify more of their models citing a prediction on increasing oil prices to be a primary reason for the move. 
 
-The declining costs of battery is expected to boost the adoption of electric vehicles in four years by about three times its current figure today. Today, batteries costs around $120/kWh and $200/kWh at the battery pack level according to the Electric Power Research Institute (EPRI). The US Department of Energy insists that its goal of reaching a price of $80/kWh by 2030 for a vehicle battery pack is reasonable with experts suggesting that further developments on battery technology can push the price to be even lower. It is expected that by 2026, it will be cheaper to build an electric vehicle compared to its gas counterparts. 
+The declining costs of battery is expected to boost the adoption of electric vehicles in 4 years by about 3 times its current figure today. Today, batteries costs around $120/kWh and $200/kWh at the battery pack level according to the Electric Power Research Institute (EPRI). The US Department of Energy insists that its goal of reaching a price of $80/kWh by 2030 for a vehicle battery pack is reasonable with experts suggesting that further developments on battery technology can push the price to be even lower. It is expected that by 2026, it will be cheaper to build an electric vehicle compared to its gas counterparts. 
 
 ![Self-driving future](https://static.dezeen.com/uploads/2016/02/google-artificial-intelligence-first-non-human-driver_dezeen_1568_1.jpg)
 <p align="center">Google's self-driving car. <em>Source: <a href = "https://www.dezeen.com/2016/02/12/google-self-driving-car-artficial-intelligence-system-recognised-as-driver-usa/">Dezeen </a></em></p>
